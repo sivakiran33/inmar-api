@@ -1,0 +1,8 @@
+# OS related files
+.DS_Store
+
+# IDE files
+*.code-workspace
+
+# Node modules
+node_modules/
